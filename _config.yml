@@ -1,3 +1,7 @@
+name: FDPCommunications
+favicon: null
+layout_spectrum: 0.05555556
+typography_spectrum: 0.9247312
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5232975
-  brandStrength: 1
-  lightness: 0.5232975
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 1
+  lightness: 0.5232975
+  saturation: 0.5232975
   rhythmicContrast: 0.5376344
-typography_spectrum: 0.9247312
-layout_spectrum: 0.05555556
-name: FDPCommunications
+purpose: []
