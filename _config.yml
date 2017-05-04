@@ -1,40 +1,38 @@
-typography_spectrum: 0.9247312
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: FDP Communications
+analytics: {}
+purpose: []
+github: true
+cta:
+  bucket: null
+  version: null
+  domain: null
+author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+content: []
 layout_spectrum: 0.05555556
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
-  saturation: 0.5232975
-  brandStrength: 1
-  rhythmicContrast: 0.5376344
+  lightness: 0.5232975
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  lightness: 0.5232975
-purpose: []
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: FDPCommunications
+  saturation: 0.5232975
+  brandStrength: 1
+  rhythmicContrast: 0.5376344
+content_rating:
+  adult: false
+typography_spectrum: 0.9247312
+opengraph: {}
