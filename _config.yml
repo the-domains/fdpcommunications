@@ -3,7 +3,10 @@ analytics:
   google: UA-64070424-1
 purpose: []
 github: true
-author: {}
+description: 'Of Insights, Ideas, Stories & Lessons'
+author:
+  name: Danny Pascual
+  email: fdpcommunication@gmail.com
 cta:
   bucket: null
   version: null
@@ -37,3 +40,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.9247312
 opengraph: {}
+title: FDP Communications
