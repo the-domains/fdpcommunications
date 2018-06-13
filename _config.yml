@@ -1,6 +1,5 @@
 name: FDP Communications
-analytics:
-  google: UA-64070424-1
+analytics: {}
 purpose: []
 github: true
 description: 'Of Insights, Ideas, Stories & Lessons'
@@ -17,12 +16,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.05555556
 color:
