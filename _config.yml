@@ -1,6 +1,9 @@
 name: FDP Communication
 analytics: {}
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:+639170244'
+    label: Call 09170244
 github: true
 description: Producing Stories that Matter
 author:
