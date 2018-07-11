@@ -4,6 +4,9 @@ purpose:
   - type: contact
     url: 'tel:+639170244'
     label: Call 09170244
+  - type: contact
+    url: 'mailto:fdpcommunication@gmail.com'
+    label: Contact me
 github: true
 description: Producing Stories that Matter
 author:
