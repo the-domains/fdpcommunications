@@ -8,7 +8,7 @@ purpose:
     url: 'mailto:fdpcommunication@gmail.com'
     label: Contact us
 github: true
-description: Producing Stories that Matter
+description: Creating Stories that Matter
 author:
   name: Dan Pascual
   email: fdpcommunication@gmail.com
@@ -22,12 +22,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.05555556
 color:
