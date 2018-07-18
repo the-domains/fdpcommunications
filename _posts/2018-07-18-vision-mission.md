@@ -1,14 +1,14 @@
 ---
 publisher: {}
-datePublished: '2018-07-18T01:52:23.819Z'
-dateModified: '2018-07-18T01:52:19.874Z'
+datePublished: '2018-07-18T01:53:58.008Z'
+dateModified: '2018-07-18T01:53:47.050Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise. A
   publisher and producer of youth & family values driven multi-platform content
   anchored on truthful, inspiring & transformative stories for a better
   Philippines through better communities.
-title: Vision-Mission
+title: Who We Are
 sourcePath: _posts/2018-07-18-vision-mission.md
 inFeed: true
 author: []
@@ -17,9 +17,10 @@ datePublishedOriginal: '2018-07-18T01:51:48.544Z'
 _type: Blurb
 
 ---
+# **Who We Are**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a746261c-3811-470b-8fc0-9d8a667f00c0.jpg)
 
-# **Vision-Mission**
+### **Vision-Mission**
 
 FDP Communication is an independent Filipino storytelling social enterprise. A publisher and producer of youth & family values driven multi-platform content anchored on truthful, inspiring & transformative stories for a better Philippines through better communities.
 
