@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-20T12:56:03.252Z'
-dateModified: '2018-07-20T12:56:02.566Z'
+datePublished: '2018-07-20T12:57:45.908Z'
+dateModified: '2018-07-20T12:57:45.375Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise. A
@@ -12,15 +12,15 @@ title: Who We Are
 sourcePath: _posts/2018-07-18-vision-mission.md
 inFeed: true
 author: []
+hasPage: true
 starred: true
 datePublishedOriginal: '2018-07-18T01:51:48.544Z'
-hasPage: true
 url: who-we-are/index.html
 _type: Article
 
 ---
 # **Who We Are**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a746261c-3811-470b-8fc0-9d8a667f00c0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa66b9e8-b244-495e-ae49-fb67bd2e6667.png)
 
 ### **Vision-Mission**
 
@@ -30,7 +30,7 @@ Our commitment is to discover and produce stories that matter, helping unleash t
 
 We support various advocacies and philanthropic activities that focus on providing community building & livelihood assistance to our Filipino brothers & sisters in need.
 
-## **Core Values**
+### **Core Values**
 
 * Integrity
 * Creativity
@@ -40,9 +40,8 @@ We support various advocacies and philanthropic activities that focus on providi
 * Commitment
 * Care for the common good
 
-**Core Products & Services**
+### **Core Products & Services**
 
 * Integrated Media, Sports, Entertainment, Marketing & Communication Story Campaigns
 * Multi-platform content production
 * Training & Development
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/657f5572-38d8-43e2-a6f9-9df6043bc1c9.png)
