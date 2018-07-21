@@ -3,7 +3,7 @@ analytics: {}
 purpose:
   - type: contact
     url: 'tel:+639175260244'
-    label: Call +639175260244
+    label: '+639175260244'
   - type: contact
     url: 'mailto:fdpcommunication@gmail.com'
     label: Contact us
