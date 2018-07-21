@@ -2,13 +2,13 @@
 publisher:
   name: FDP Communications
   url: 'http://www.fdpcommunication.com'
-datePublished: '2018-07-21T01:05:51.579Z'
-dateModified: '2018-07-21T01:05:50.211Z'
+datePublished: '2018-07-21T01:15:20.861Z'
+dateModified: '2018-07-21T01:15:19.757Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise &
   creative community committed to social change through social communication.
-title: Who We Are
+title: About Us
 sourcePath: _posts/2018-07-18-vision-mission.md
 inFeed: true
 author: []
@@ -19,7 +19,7 @@ url: who-we-are/index.html
 _type: Article
 
 ---
-# **Who We Are**
+# **About Us**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a2276eb978be86bfd76942539fe482298d11c2a.png)
 
 ### **Vision-Mission**
