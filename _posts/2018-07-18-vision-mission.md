@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-07-21T00:44:49.427Z'
-dateModified: '2018-07-21T00:44:48.146Z'
+datePublished: '2018-07-21T00:45:35.502Z'
+dateModified: '2018-07-21T00:45:33.924Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise &
-  creative community committed to social change.
+  creative community committed to social change through social communication.
 title: Who We Are
 sourcePath: _posts/2018-07-18-vision-mission.md
 inFeed: true
@@ -22,7 +22,7 @@ _type: Article
 
 ### **Vision-Mission**
 
-FDP Communication is an independent Filipino storytelling social enterprise & creative community committed to social change.
+FDP Communication is an independent Filipino storytelling social enterprise & creative community committed to social change through social communication.
 
 We are publishers and producers of youth & family values driven multi-platform content anchored on truthful, inspiring & transformative stories for a better Philippines through better communities.
 
@@ -49,3 +49,4 @@ Furthermore, we support various advocacies and philanthropic activities that foc
 ### **Projects & Initiatives**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fd1198867584d64ac28ae6f0f530f84cf8d4bf.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5123b33e-3235-4c05-8c2a-b28e53a4ce92.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9abbc377-3883-4e05-ad44-a826a8d8ecb4.png)
