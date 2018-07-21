@@ -2,8 +2,8 @@ name: FDP Communication
 analytics: {}
 purpose:
   - type: contact
-    url: 'tel:+639170244'
-    label: Mobile +639170244
+    url: 'tel:+639175260244'
+    label: Call +639175260244
   - type: contact
     url: 'mailto:fdpcommunication@gmail.com'
     label: Contact us
@@ -46,7 +46,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
