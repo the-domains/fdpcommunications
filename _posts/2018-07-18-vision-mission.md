@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-21T00:39:30.766Z'
-dateModified: '2018-07-21T00:39:29.839Z'
+datePublished: '2018-07-21T00:42:11.231Z'
+dateModified: '2018-07-21T00:42:09.975Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise &
@@ -33,8 +33,8 @@ Furthermore, we support various advocacies and philanthropic activities that foc
 ### **Core Values**
 
 * Integrity
-* Creativity
-* Innovation
+* Purposeful Creativity
+* Truthful Innovation
 * Oneness of minds & hearts
 * Passion
 * Commitment
@@ -47,3 +47,4 @@ Furthermore, we support various advocacies and philanthropic activities that foc
 * Educational Training & Development
 
 ### **Projects & Initiatives**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e90ff20-b989-4806-b6c2-c44491f18409.png)
