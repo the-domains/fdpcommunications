@@ -1,3 +1,16 @@
+layout_spectrum: 0.7988550979386794
+typography_spectrum: 0.6052546576416986
+color:
+  lightness: 0.7829961023696395
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.030749094128184537
+  brandStrength: 0.9729596174412435
+  rhythmicContrast: 0.022701583726442244
 name: FDP Communication
 analytics: {}
 purpose:
@@ -53,21 +66,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.05555556
-color:
-  lightness: 0.5232975
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  saturation: 0.5232975
-  brandStrength: 1
-  rhythmicContrast: 0.5376344
 content_rating:
   adult: false
-typography_spectrum: 0.9247312
 opengraph: {}
 title: FDP Communication
 url: 'http://fdpcommunication.com/'
