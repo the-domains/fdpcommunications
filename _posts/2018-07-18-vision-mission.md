@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-21T00:53:09.760Z'
-dateModified: '2018-07-21T00:53:08.431Z'
+datePublished: '2018-07-21T01:01:16.782Z'
+dateModified: '2018-07-21T01:01:15.609Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise &
@@ -51,3 +51,4 @@ Furthermore, we support various advocacies and philanthropic activities that foc
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5123b33e-3235-4c05-8c2a-b28e53a4ce92.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9abbc377-3883-4e05-ad44-a826a8d8ecb4.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2451bb82-97ea-48da-a4b2-3a8606499ead.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdde81e8-5a56-47f9-a9c2-ba795dd0b75e.png)
