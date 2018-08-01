@@ -1,16 +1,16 @@
 ---
 publisher: {}
-dateModified: '2018-07-11T06:31:02.467Z'
+dateModified: '2018-08-01T21:42:02.911Z'
 via: {}
-description: This is the start…rise & grind!
-title: ''
+description: ''
+title: This is the start…rise & grind!
 inFeed: true
 author: []
-datePublished: '2018-07-11T06:31:35.539Z'
+datePublished: '2018-08-01T21:42:04.309Z'
+sourcePath: _posts/2018-07-11-this-is-the-startrise-and-grind.md
 starred: true
 datePublishedOriginal: '2018-07-11T06:31:35.539Z'
-sourcePath: _posts/2018-07-11-this-is-the-startrise-and-grind.md
 _type: Blurb
 
 ---
-This is the start...rise & grind!
+# This is the start...rise & grind!
