@@ -11,7 +11,7 @@ color:
   saturation: 0.030749094128184537
   brandStrength: 0.9729596174412435
   rhythmicContrast: 0.022701583726442244
-name: FDP Communication
+name: FDP Communications
 analytics: {}
 purpose:
   - type: contact
@@ -69,5 +69,5 @@ content:
 content_rating:
   adult: false
 opengraph: {}
-title: FDP Communication
+title: FDP Communications
 url: 'http://fdpcommunication.com/'
