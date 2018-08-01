@@ -2,8 +2,8 @@
 publisher:
   name: FDP Communications
   url: 'http://www.fdpcommunication.com'
-datePublished: '2018-08-01T21:33:31.483Z'
-dateModified: '2018-08-01T21:33:30.047Z'
+datePublished: '2018-08-01T21:35:12.414Z'
+dateModified: '2018-08-01T21:35:11.203Z'
 via: {}
 description: >-
   FDP Communication is an independent Filipino storytelling social enterprise &
@@ -50,5 +50,5 @@ Furthermore, we support various advocacies and philanthropic activities that foc
 * Educational Training & Development
 
 ### **Projects & Initiatives**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fd1198867584d64ac28ae6f0f530f84cf8d4bf.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5123b33e-3235-4c05-8c2a-b28e53a4ce92.png)
+![Empowering a New Breed of Starting Filmmakers](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fd1198867584d64ac28ae6f0f530f84cf8d4bf.png)
+![Unleashing the Filmmaker within You](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5123b33e-3235-4c05-8c2a-b28e53a4ce92.png)
