@@ -2,11 +2,11 @@
 publisher:
   name: FDP Communications
   url: 'http://www.fdpcommunication.com'
-datePublished: '2018-08-01T22:17:15.105Z'
-dateModified: '2018-08-01T22:17:13.212Z'
+datePublished: '2018-08-02T07:31:58.617Z'
+dateModified: '2018-08-02T07:31:56.427Z'
 via: {}
 description: >-
-  FDP Communication is an independent Filipino storytelling social enterprise &
+  FDP Communications is an independent Filipino storytelling social enterprise &
   creative community committed to social change & transformation through social
   communication.
 title: About Us
@@ -25,7 +25,7 @@ _type: Article
 
 ### **Vision-Mission**
 
-FDP Communication is an independent Filipino storytelling social enterprise & creative community committed to social change & transformation through social communication.
+FDP Communications is an independent Filipino storytelling social enterprise & creative community committed to social change & transformation through social communication.
 
 We are publishers and producers of youth & family values driven multi-platform content anchored on truthful, inspiring & transformative stories for a better Philippines through better communities.
 
