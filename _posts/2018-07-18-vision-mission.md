@@ -2,8 +2,8 @@
 publisher:
   name: FDP Communications
   url: 'http://www.fdpcommunication.com'
-datePublished: '2018-08-16T03:59:53.789Z'
-dateModified: '2018-08-16T03:59:52.321Z'
+datePublished: '2018-08-16T04:42:24.044Z'
+dateModified: '2018-08-16T04:42:21.163Z'
 via: {}
 description: >-
   FDP Communications is an independent Filipino storytelling social enterprise &
